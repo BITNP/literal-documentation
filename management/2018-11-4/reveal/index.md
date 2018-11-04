@@ -68,7 +68,7 @@ info:
 
 
 `live.bitnp.net`
-![](management/2018-11-4/reveal/images/live.bitnp.net.png)
+![](images/live.bitnp.net.png)
 
 
 `mirrors.bit.edu.cn`
@@ -80,7 +80,7 @@ info:
 
 
 `schedule.bitnp.net`
-![](management/2018-11-4/reveal/images/schedule.bitnp.net.png)
+![](images/schedule.bitnp.net.png)
 - 甚至加上大佬们的博客
 
 
@@ -110,19 +110,19 @@ under dev
 
 
 ## gitlab
-![](management/2018-11-4/reveal/images/git.bitnp.net.png)
+![](images/git.bitnp.net.png)
 
 
 ## wiki.bitnp.net
-![](management/2018-11-4/reveal/images/wiki.bitnp.net.png)
+![](images/wiki.bitnp.net.png)
 
 
 ## acm.bitnp.net
-![](management/2018-11-4/reveal/images/acm.bitnp.net.png)
+![](images/acm.bitnp.net.png)
 
 
 ## zzxx.bitnp.net
-![](management/2018-11-4/reveal/images/zzxx.bitnp.net.png)
+![](images/zzxx.bitnp.net.png)
 
 
 ## 校园网相关开发
