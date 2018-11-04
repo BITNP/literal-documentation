@@ -72,10 +72,12 @@ info:
 
 
 `mirrors.bit.edu.cn`
+
 北理开源镜像站
 
 
 `design.bitnp.net`
+
 设计语言相关
 
 
@@ -85,11 +87,14 @@ info:
 
 
 `clinic.bitnp.net`
+
 诊所预约系统
+
 under dev
 
 
 `blog.bitnp.net`
+
 播客服务
 
 
@@ -97,6 +102,7 @@ under dev
 
 
 ## 直播
+
 提高工作效率
 
 
@@ -136,6 +142,7 @@ under dev
 
 
 ## 属于网协的设计语言
+
 - logo
     - 使用方式 
 - 配色方案
@@ -152,7 +159,11 @@ under dev
 ## 多举办非技术类活动
 
 
+## 继续鼓励跨部门听课
+
+
 ## 技术类讲座
+
 - 面向全校
 - 类似TED
 
